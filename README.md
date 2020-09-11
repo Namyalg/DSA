@@ -1,7 +1,7 @@
 # DSA
 This repo consists of all codes related to DSA
 
-Kadanes algorithm
+### Kadanes algorithm ###
 
 - Used for max subarray
 - Complexity is O(n)
@@ -14,3 +14,8 @@ TOWER OF HANOI
 
 https://www.youtube.com/watch?v=0u7g9C0wSIA
 Very easy recursion question................................
+
+## Consecutive letters ##
+All can be done in O(n) complexity but the brute force approach will be O(n**3)
+
+https://medium.com/@poitevinpm/leetcode-1446-consecutive-characters-bbba426cf2cc
