@@ -28,3 +28,6 @@ https://iq.opengenus.org/binary-search-iterative-recursive/#:~:text=The%20major%
 
 ### bisect in python for binary search,  in_sort to insert an element to the correct position in a sorted array ###
 https://www.youtube.com/watch?v=mqaf7vj1AdA
+
+### Longest I subsequence ###
+https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
