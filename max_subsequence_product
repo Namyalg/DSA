@@ -1,0 +1,24 @@
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+                #HAve these 5 parameters
+                a = nums
+                max_pd = a[0]
+                min_pd = a[0]
+                curr_pd = a[0]
+                prev_max = a[0]
+                prev_min = a[0]
+                an = a[0]
+                for i in range(1,len(a)):
+                    #BEacuse of NEAGTIVE numbers u never know what can go wrong so do this and assign
+                    max_pd = max(prev_min*a[i] , prev_max*a[i],a[i])
+                    min_pd = min(prev_min*a[i] , prev_max*a[i],a[i])
+                    an = max(an, max_pd)
+                    prev_min = min_pd
+                    prev_max = max_pd
+                return(an)
+             ## This is a variation of the Kadane's algorithm
+             
+             ALL DONE IN O(n) and constant space complexity as u are traversing the array only once
+             
+             
+             BRUTE FORCE WOULD BE O(n**3)
