@@ -27,6 +27,8 @@ Binary search, recursive algo and iterative, both have time complexity of the or
 https://iq.opengenus.org/binary-search-iterative-recursive/#:~:text=The%20major%20difference%20between%20the,the%20iterative%20version%20is%20efficient.
 
 ### bisect in python for binary search,  in_sort to insert an element to the correct position in a sorted array ###
+bisect_right will get the position of insertion of an element into a sorted array from the right
+bisect_left will get the position of insertion of an element into a sorted array from the left
 https://www.youtube.com/watch?v=mqaf7vj1AdA
 
 ### Longest I subsequence ###
