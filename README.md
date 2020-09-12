@@ -25,3 +25,6 @@ Most of the questions that need you to find the miniumum or maximum subseq or st
 
 Binary search, recursive algo and iterative, both have time complexity of the order O(log(n)) but for recursive the space is o(logn) but iterative is o(1)
 https://iq.opengenus.org/binary-search-iterative-recursive/#:~:text=The%20major%20difference%20between%20the,the%20iterative%20version%20is%20efficient.
+
+### bisect in python for binary search,  in_sort to insert an element to the correct position in a sorted array ###
+https://www.youtube.com/watch?v=mqaf7vj1AdA
