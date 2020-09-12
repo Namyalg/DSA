@@ -1,0 +1,22 @@
+import bisect
+class Solution:
+    def lengthOfLIS(self, nums: List[int]) -> int:
+        
+        if len(nums) == 0:
+            return 0
+        
+        dp = []
+        for n in nums:
+            pos = bisect.bisect_left(dp, n)
+            if pos == len(dp):
+                dp.append(n)
+            #if the element is greater than the element, that is if the position is the end of the array, this will add it to the end
+            else:
+                dp[pos] = n
+            #Else it will replace the element in that position
+            print(dp)
+            
+        return len(dp)
+        
+#Use this to do longest increasing subsequence
+#The bisect left function will give the position the element has to be inserted
