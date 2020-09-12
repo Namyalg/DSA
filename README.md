@@ -33,3 +33,7 @@ https://www.youtube.com/watch?v=mqaf7vj1AdA
 
 ### Longest I subsequence ###
 https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
+
+### This can be used to do the longest increasing subsequence using bisect in python ##
+
+https://leetcode.com/problems/longest-increasing-subsequence/
