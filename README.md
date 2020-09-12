@@ -34,6 +34,11 @@ https://www.youtube.com/watch?v=mqaf7vj1AdA
 ### Longest I subsequence ###
 https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
 
+### Max product subsequence ##
+https://www.youtube.com/watch?v=vtJvbRlHqTA
+On the lines of Kadane, keep track of the maximum and minimum product
+
+
 ### This can be used to do the longest increasing subsequence using bisect in python ##
 
 https://leetcode.com/problems/longest-increasing-subsequence/
