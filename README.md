@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=mqaf7vj1AdA
 ### Longest I subsequence ###
 https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
 
+##Use the remove function to remove elements from a list in python ##
 ### Max product subsequence ##
 https://www.youtube.com/watch?v=vtJvbRlHqTA
 On the lines of Kadane, keep track of the maximum and minimum product
