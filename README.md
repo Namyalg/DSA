@@ -21,3 +21,7 @@ All can be done in O(n) complexity but the brute force approach will be O(n**3)
 https://medium.com/@poitevinpm/leetcode-1446-consecutive-characters-bbba426cf2cc
 
 Most of the questions that need you to find the miniumum or maximum subseq or strings in an array can be done in time O(n) rather than O(n**3)
+
+
+Binary search, recursive algo and iterative, both have time complexity of the order O(log(n)) but for recursive the space is o(logn) but iterative is o(1)
+https://iq.opengenus.org/binary-search-iterative-recursive/#:~:text=The%20major%20difference%20between%20the,the%20iterative%20version%20is%20efficient.
