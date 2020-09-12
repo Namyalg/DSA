@@ -19,3 +19,5 @@ Very easy recursion question................................
 All can be done in O(n) complexity but the brute force approach will be O(n**3)
 
 https://medium.com/@poitevinpm/leetcode-1446-consecutive-characters-bbba426cf2cc
+
+Most of the questions that need you to find the miniumum or maximum subseq or strings in an array can be done in time O(n) rather than O(n**3)
