@@ -34,6 +34,10 @@ https://www.youtube.com/watch?v=mqaf7vj1AdA
 ### Longest I subsequence ###
 https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
 
+### Sieve of eratosthenes ###
+Primes between a range in O(sqrt(n)*log(log(n)) and space is O(n)
+
+
 ##Use the remove function to remove elements from a list in python ##
 ### Max product subsequence ##
 https://www.youtube.com/watch?v=vtJvbRlHqTA
