@@ -34,6 +34,14 @@ https://www.youtube.com/watch?v=mqaf7vj1AdA
 ### Longest I subsequence ###
 https://cp-algorithms.com/sequences/longest_increasing_subsequence.html 
 
+### Catalan numbers ###
+
+These numbers can be used to represent the seq 1,1,2,5,42.......
+
+given as (2n)!/(n+1)!n! where n is the nth term
+
+
+
 ### Sieve of eratosthenes ###
 Primes between a range in O(sqrt(n)*log(log(n)) and space is O(n)
 
