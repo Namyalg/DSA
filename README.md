@@ -1,4 +1,7 @@
 # DSA
+DP in python
+- http://justinbois.github.io/bootcamp/2020/lessons/l33_algorithmic_complexity.html
+
 This repo consists of all codes related to DSA
 
 ### Kadanes algorithm ###
