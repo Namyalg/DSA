@@ -1,9 +1,12 @@
 # DSA
+This repo consists of all codes related to DSA
+----------------------------------------------------------------------------------------------------------
 DP in python
 - http://justinbois.github.io/bootcamp/2020/lessons/l33_algorithmic_complexity.html
 
-This repo consists of all codes related to DSA
-
+Complexity of itertools.permutation in O(n!)
+https://stackoverflow.com/questions/53419536/what-is-the-computational-complexity-of-itertools-combinations-in-python
+## From the graph, it is observed that the time complexity is O(n!) where n=Input Size
 ### Kadanes algorithm ###
 
 - Used for max subarray
