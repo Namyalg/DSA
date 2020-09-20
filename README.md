@@ -55,3 +55,7 @@ On the lines of Kadane, keep track of the maximum and minimum product
 ### This can be used to do the longest increasing subsequence using bisect in python ##
 
 https://leetcode.com/problems/longest-increasing-subsequence/
+
+## GEEKS for GEEKS
+about DP
+https://www.geeksforgeeks.org/dynamic-programming/
