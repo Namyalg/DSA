@@ -5,8 +5,6 @@ DP in python
 - http://justinbois.github.io/bootcamp/2020/lessons/l33_algorithmic_complexity.html
 
 Complexity of itertools.permutation in O(n!)
-https://stackoverflow.com/questions/53419536/what-is-the-computational-complexity-of-itertools-combinations-in-python
-## From the graph, it is observed that the time complexity is O(n!) where n=Input Size
 ### Kadanes algorithm ###
 
 - Used for max subarray
@@ -46,8 +44,6 @@ These numbers can be used to represent the seq 1,1,2,5,42.......
 
 given as (2n)!/(n+1)!n! where n is the nth term
 
-
-
 ### Sieve of eratosthenes ###
 Primes between a range in O(sqrt(n)*log(log(n)) and space is O(n)
 
@@ -65,3 +61,6 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 ## GEEKS for GEEKS
 about DP
 https://www.geeksforgeeks.org/dynamic-programming/
+
+## Manacher's algorithm
+Find the longest palindromic substring in linear time
