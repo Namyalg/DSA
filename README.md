@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=0oDAlMwTrLo
 
 We talk about Big O most commonly which is used as we are mostly interested in the performance of the algorithm given the worst circumstances
 
+- Big O, small o what and why
+https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/notations.html
 
 DP in python
 - http://justinbois.github.io/bootcamp/2020/lessons/l33_algorithmic_complexity.html
