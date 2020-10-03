@@ -1,6 +1,19 @@
 # DSA
 This repo consists of all codes related to DSA
 ----------------------------------------------------------------------------------------------------------
+## Complexity and Big O, Big Theta and Big Omega
+
+https://www.youtube.com/watch?v=0oDAlMwTrLo
+- Basically Big O notation is an upper bound that limits or always is greater than the function taken into consideration 
+#### Big O is FOR WORST TIME
+- Big Omega is the best time complexity, that is the least time the algorithm would take to execute
+#### Big Omega is FOR BEST TIME
+- Big Omega is for AVERAGE time complexity, that is the (least time + worst time) / 2 , the algorithm would take to execute
+#### Big Theta is FOR AVERAGE TIME
+
+We talk about Big O most commonly which is used as we are mostly interested in the performance of the algorithm given the worst circumstances
+
+
 DP in python
 - http://justinbois.github.io/bootcamp/2020/lessons/l33_algorithmic_complexity.html
 
