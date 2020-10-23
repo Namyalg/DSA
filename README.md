@@ -79,3 +79,8 @@ https://www.geeksforgeeks.org/dynamic-programming/
 
 ## Manacher's algorithm
 Find the longest palindromic substring in linear time
+
+## Dynamic sliding window
+- https://www.youtube.com/watch?v=fYgU6Bi2fRg
+- The time complexity is O(size of alphabet * length of string
+- this is O(n) as opposed to a brute force solution in O(nm)
