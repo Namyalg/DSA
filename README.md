@@ -86,3 +86,5 @@ Find the longest palindromic substring in linear time
 - https://www.youtube.com/watch?v=fYgU6Bi2fRg
 - The time complexity is O(size of alphabet * length of string
 - this is O(n) as opposed to a brute force solution in O(nm)
+- Maximum value of subarrays 
+   - https://www.youtube.com/watch?v=BVWxlcxW9Ww
