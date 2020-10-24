@@ -1,5 +1,6 @@
 # DSA
-This repo consists of all codes related to DSA
+This repo consists of all codes related to DSA --guide to DSA interview prep
+- https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6
 ----------------------------------------------------------------------------------------------------------
 ## Complexity and Big O, Big Theta and Big Omega
 
