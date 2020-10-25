@@ -123,16 +123,18 @@ On the lines of Kadane, keep track of the maximum and minimum product
 
 https://leetcode.com/problems/longest-increasing-subsequence/
 
-## GEEKS for GEEKS
+### GEEKS for GEEKS
 about DP
 https://www.geeksforgeeks.org/dynamic-programming/
 
-## Manacher's algorithm
+### Manacher's algorithm
 Find the longest palindromic substring in linear time
 
-## Dynamic sliding window
+### Dynamic sliding window
 - https://www.youtube.com/watch?v=fYgU6Bi2fRg
 - The time complexity is O(size of alphabet * length of string
 - this is O(n) as opposed to a brute force solution in O(nm)
 - Maximum value of subarrays 
    - https://www.youtube.com/watch?v=BVWxlcxW9Ww
+### Trees Traversal and height 
+- https://www.youtube.com/watch?v=AWIJwNf0ZQE
