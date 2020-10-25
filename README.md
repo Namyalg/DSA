@@ -2,6 +2,9 @@
 This repo consists of all codes related to DSA --guide to DSA interview prep
 - https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6
 - https://www.educative.io/blog/coding-interivew-preparation-bootcamp
+
+### Important Algorithms
+- https://www.youtube.com/watch?v=r1MXwyiGi_U
 ----------------------------------------------------------------------------------------------------------
 ## Complexity and Big O, Big Theta and Big Omega
 
