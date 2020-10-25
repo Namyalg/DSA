@@ -138,3 +138,6 @@ Find the longest palindromic substring in linear time
    - https://www.youtube.com/watch?v=BVWxlcxW9Ww
 ### Trees Traversal and height 
 - https://www.youtube.com/watch?v=AWIJwNf0ZQE
+
+### Stacks and Queues
+   - https://www.acodersjourney.com/generate-binary-numbers-using-a-queue/ binary numbers with a queue
