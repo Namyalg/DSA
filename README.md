@@ -5,6 +5,51 @@ This repo consists of all codes related to DSA --guide to DSA interview prep
 
 ### Important Algorithms
 - https://www.youtube.com/watch?v=r1MXwyiGi_U
+- https://www.youtube.com/watch?v=zHczhZn-z30
+#### Depth First Search 
+   - Stack
+   - Go completely to the root and come back
+### Breadth First Search - Queue
+   - Queue
+   - Go level by level
+### Matching Paranthesis
+  - Stack - simple solution
+  - IF stack not empty then false in the end
+### Use of hash tables
+  - Visit a 2D array
+  - Cache a number/Keep track here
+  - DP
+### Use multiple pointers and manipulate them
+   - Longest palindromic substring : Traverse string and use 2 pointers 
+### Reverse a linked list
+   - Use previous, current, next 
+   - Cycle in a linked list
+   - Remove duplicates in a linked list (for sorted direct, for unsorted use hash table)
+
+### Sorting Algorithms
+   - Selection
+   - Insert
+   - Bubble
+   - Heap
+   O(NLOGN)
+   - Merge
+   - Quick
+Dont really have to implement, runtimes are important
+
+### Recursion
+- hates or loves :(
+- Rarely used, but tested a lot - TREES
+- Not very practical
+- stack calls that is how u implemented it
+
+### Constuct a Data Structure/choosing the correct one
+
+### U might need OOPs
+
+### Binary SEARCH :)
+ - logn complexity - Keeps reducing to 1/2 every time - So log base 2, that's the logic
+ - quicksort implemented on similar lines
+
 ----------------------------------------------------------------------------------------------------------
 ## Complexity and Big O, Big Theta and Big Omega
 
