@@ -8,7 +8,8 @@ This repo consists of all codes related to DSA --guide to DSA interview prep
 - https://www.youtube.com/watch?v=zHczhZn-z30
 #### Depth First Search 
    - Stack
-   - Go completely to the root and come back
+   - https://www.youtube.com/watch?v=7fujbpJ0LB4
+   - Go completely to the root and come back - backtrack
 ### Breadth First Search - Queue
    - Queue
    - Go level by level
