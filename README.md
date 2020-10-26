@@ -142,3 +142,7 @@ Find the longest palindromic substring in linear time
 ### Stacks and Queues
    - https://www.acodersjourney.com/generate-binary-numbers-using-a-queue/ binary numbers with a queue
    - https://www.studytonight.com/post/finding-next-greater-element-for-every-element-in-an-array -next greater element with a stack
+
+### Based on using multiple pointer
+- 2 Sum, 3 Sum and so on based on hashing or using 2 pointers
+ - https://medium.com/swlh/understanding-leetcode-the-two-sum-problem-6428ed5cb18d 
