@@ -3,6 +3,8 @@ This repo consists of all codes related to DSA --guide to DSA interview prep
 - https://scanftree.com/Data_Structure/prefix-postfix-infix-online-converter
 - https://blog.pramp.com/how-to-succeed-in-data-structures-and-algorithms-interview-2ad1a28041b6
 - https://www.educative.io/blog/coding-interivew-preparation-bootcamp
+- https://medium.com/@lavina16052/google-step-internship-5b5141e0cac6
+- https://medium.com/dev-genius/how-i-got-a-step-internship-at-google-1c7aa346e6cd
 
 ### Important Algorithms
 - https://www.youtube.com/watch?v=r1MXwyiGi_U
