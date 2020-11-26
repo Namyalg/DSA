@@ -33,6 +33,8 @@ This repo consists of all codes related to DSA --guide to DSA interview prep
    - Cycle in a linked list
    - Remove duplicates in a linked list (for sorted direct, for unsorted use hash table)
 
+### HashMaps
+- https://www.quora.com/What-is-the-Big-O-for-operations-in-a-Hashmap
 ### Sorting Algorithms
    - Selection
    - Insert
