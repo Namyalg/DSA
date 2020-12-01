@@ -155,3 +155,7 @@ Find the longest palindromic substring in linear time
 ### Based on using multiple pointer
 - 2 Sum, 3 Sum and so on based on hashing or using 2 pointers
  - https://medium.com/swlh/understanding-leetcode-the-two-sum-problem-6428ed5cb18d 
+
+### STL
+  - https://www.geeksforgeeks.org/stdmove-in-c/#:~:text=20%2D07%2D2017-,std%20%3A%3A%20move,an%20unspecified%20but%20valid%20state.
+      - Move in C++, u can move one iterator into another, 
