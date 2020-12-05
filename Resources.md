@@ -2,6 +2,8 @@
 
 ### HEAPS
 - WHY BUILD MAX HEAP HAS A COMPLEXITY OF O(n) ONLY, NOT O(nlogn) -------------------> https://www.youtube.com/watch?v=XZ_Beap6Vo0
+- https://www.youtube.com/watch?v=k72DtCnY4MU    build heap has a complexity of O(n) and extract or to get the elements in order takes O(logn) so 
+ it is O(nlogn)
 - https://afteracademy.com/blog/operations-on-heaps
 
 ### Misc
