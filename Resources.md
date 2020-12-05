@@ -1,6 +1,7 @@
 # RESOURCES
 
 ### HEAPS
+- WHY BUILD MAX HEAP HAS A COMPLEXITY OF O(n) ONLY, NOT O(nlogn) -------------------> https://www.youtube.com/watch?v=XZ_Beap6Vo0
 - https://afteracademy.com/blog/operations-on-heaps
 
 ### Misc
