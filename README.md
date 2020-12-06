@@ -1,5 +1,8 @@
 # DSA
 
+#### Cases used :
+   - https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841
+
 Programs: https://docs.google.com/spreadsheets/d/1wegK1vm08zuxC4OCgHn5PnvygJSLvOex7xfdN3IgHq4/edit?usp=sharing
 This repo consists of all codes related to DSA --guide to DSA interview prep
 - https://scanftree.com/Data_Structure/prefix-postfix-infix-online-converter
