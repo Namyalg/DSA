@@ -1,0 +1,4 @@
+Floyd's cycle detection algorithm
+ - https://leetcode.com/problems/find-the-duplicate-number/solution/
+ - Used to find duplicates in an array where there is only 1 duplicate in the array
+ - similar to check if there is a loop in a linked list
