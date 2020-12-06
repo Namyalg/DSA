@@ -2,6 +2,9 @@
 
 #### Cases used :
    - https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841
+   -  Python : snake_case
+   - C/C++ : camelCase
+   - BE AWARE OF THIS
 
 Programs: https://docs.google.com/spreadsheets/d/1wegK1vm08zuxC4OCgHn5PnvygJSLvOex7xfdN3IgHq4/edit?usp=sharing
 This repo consists of all codes related to DSA --guide to DSA interview prep
