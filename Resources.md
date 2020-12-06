@@ -1,5 +1,7 @@
 # RESOURCES
 
+### Hashmaps
+ - https://www.youtube.com/watch?v=C9-n_H7dsvU ==> check whether subarray with sum zero exists
 ### HEAPS
 - WHY BUILD MAX HEAP HAS A COMPLEXITY OF O(n) ONLY, NOT O(nlogn) -------------------> https://www.youtube.com/watch?v=XZ_Beap6Vo0
 - https://www.youtube.com/watch?v=k72DtCnY4MU    build heap has a complexity of O(n) and extract or to get the elements in order takes O(logn) so 
