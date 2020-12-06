@@ -3,3 +3,7 @@ Floyd's cycle detection algorithm
  TRY THIS PROBLEM AGAIN IT LEADS TO MANY INTERESTING CONCLUSIONS
  - Used to find duplicates in an array where there is only 1 duplicate in the array
  - similar to check if there is a loop in a linked list
+
+Moores Algorithm
+To find the element that occurs more than n/2 times
+- https://leetcode.com/problems/majority-element/solution/
