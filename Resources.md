@@ -5,6 +5,7 @@
 - https://www.youtube.com/watch?v=k72DtCnY4MU    build heap has a complexity of O(n) and extract or to get the elements in order takes O(logn) so 
  it is O(nlogn)
  - https://www.youtube.com/watch?v=MiyLo8adrWw
+ - Kth largest using a minheap and Kth smallest using a maxheap and vice-versa : https://www.youtube.com/watch?v=iiYmgrD4h6M
 - https://afteracademy.com/blog/operations-on-heaps
 
 ### Misc
