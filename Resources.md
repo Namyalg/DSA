@@ -10,6 +10,11 @@
  - Kth largest using a minheap and Kth smallest using a maxheap and vice-versa : https://www.youtube.com/watch?v=iiYmgrD4h6M
 - https://afteracademy.com/blog/operations-on-heaps
 
+### Trees
+- The time complexity of bfs and dfs is all O(n) for a tree as u are visitng each node once in the tree
+- An overhead of space also exists where in bfs for the queue in case of dfs for the stack calls
+- https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/
+
 ### Misc
 - Difference between emplace and push
   - For primitive data types the emplace and pushback functions work in the same way, however for objects and heavier data types use EMPLACE
