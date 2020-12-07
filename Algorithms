@@ -13,3 +13,8 @@ Remove duplicates in an unsorted array
  - But if noe extra space is allowed use O(n**2) time + O(1) space
  
  For some palindrome questions, u can check by storing half of the elements in a stack and then popping those for the remaining elements
+
+BFS AND DFS
+breadth first search basically means u are going level wise visit all the nodes then move to the next level
+depth first search u are reaching the bottom for one node at a time and then moving forward
+ - http://mishadoff.com/blog/dfs-on-binary-tree-array/
