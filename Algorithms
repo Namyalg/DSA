@@ -1,6 +1,10 @@
 Floyd's cycle detection algorithm
  - https://leetcode.com/problems/find-the-duplicate-number/solution/
  TRY THIS PROBLEM AGAIN IT LEADS TO MANY INTERESTING CONCLUSIONS
+ https://leetcode.com/problems/linked-list-cycle-ii/discuss/960196/Two-Pointer-Solution-Easy-to-Understand
+ This is the thing, in the normal thing, u will be able to detect whether there is aloop and get out of it
+ Here when u are asked the position at which the cycle starts, u start slow from head and wait for it to meet fast
+ This is done after u find the existence of a cycle in a linked llllists
  - Used to find duplicates in an array where there is only 1 duplicate in the array
  - similar to check if there is a loop in a linked list
 
