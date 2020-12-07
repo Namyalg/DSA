@@ -7,3 +7,7 @@ Floyd's cycle detection algorithm
 Moores Algorithm
 To find the element that occurs more than n/2 times
 - https://leetcode.com/problems/majority-element/solution/
+
+Remove duplicates in an unsorted array
+ - Make use of a hashtable O(n) time + O(n) space 
+ - But if noe extra space is allowed use O(n**2) time + O(1) space
