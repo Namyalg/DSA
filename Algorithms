@@ -18,3 +18,11 @@ BFS AND DFS
 breadth first search basically means u are going level wise visit all the nodes then move to the next level
 depth first search u are reaching the bottom for one node at a time and then moving forward
  - http://mishadoff.com/blog/dfs-on-binary-tree-array/
+ 
+ Extend vs append in python
+ extend adds to the same object, while append will conisder a diffferent entity
+ 
+ eg " a = [1,2,3,4], b = [5,6,7]
+ a.append(b) = [1,2,3,4,[5,6,7]]
+ a.extend(b) = [1,2,3,4,5,6,7]
+ https://www.geeksforgeeks.org/append-extend-python/
