@@ -11,3 +11,5 @@ To find the element that occurs more than n/2 times
 Remove duplicates in an unsorted array
  - Make use of a hashtable O(n) time + O(n) space 
  - But if noe extra space is allowed use O(n**2) time + O(1) space
+ 
+ For some palindrome questions, u can check by storing half of the elements in a stack and then popping those for the remaining elements
